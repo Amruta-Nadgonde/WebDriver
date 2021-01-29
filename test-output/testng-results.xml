@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9183" started-at="2016-06-21T10:18:51Z" finished-at="2016-06-21T10:19:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9183" started-at="2016-06-21T10:18:51Z" finished-at="2016-06-21T10:19:00Z">
+      <class name="WebDriverTest.WebDriverTest.LinkTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:WebDriverTest.WebDriverTest.LinkTest@82f6ef]" name="beforeTest" is-config="true" duration-ms="9080" started-at="2016-06-21T15:48:51Z" finished-at="2016-06-21T15:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testLinks()[pri:0, instance:WebDriverTest.WebDriverTest.LinkTest@82f6ef]" name="testLinks" duration-ms="66" started-at="2016-06-21T15:49:00Z" finished-at="2016-06-21T15:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinks -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:WebDriverTest.WebDriverTest.LinkTest@82f6ef]" name="afterTest" is-config="true" duration-ms="18" started-at="2016-06-21T15:49:00Z" finished-at="2016-06-21T15:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- WebDriverTest.WebDriverTest.LinkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
