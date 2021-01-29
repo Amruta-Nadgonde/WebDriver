@@ -12,7 +12,7 @@ public class GoogleTest {
   @Test
   public void checkTitle() {
 	  String title = driver.getTitle();
-	  System.out.println(title);
+	
 	  Assert.assertTrue(title.contains("Google")); 
   }
   @BeforeTest
